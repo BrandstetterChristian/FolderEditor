@@ -1,0 +1,14 @@
+folder edit
+
+result: save as xml, datatype + UNDO feature (position)
+
+tab for result output and history
+
+delete files feature
+include folder names at replace
+file comparing: 1 file to multiple
+
+GET:
+filters for directories
++ regex filter (linq)
+

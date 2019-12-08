@@ -1,0 +1,13 @@
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\bin\Debug\FolderEditor.exe.config
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\bin\Debug\FolderEditor.exe
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\bin\Debug\FolderEditor.pdb
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\obj\Debug\FolderEditor.csprojAssemblyReference.cache
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\obj\Debug\FolderEditor.FormEdit.resources
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\obj\Debug\FolderEditor.Forms.FormSearchResult.resources
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\obj\Debug\FolderEditor.Properties.Resources.resources
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\obj\Debug\FolderEditor.csproj.GenerateResource.cache
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\obj\Debug\FolderEditor.csproj.CopyComplete
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\obj\Debug\FolderEditor.exe
+C:\Users\brand\Documents\Projects\FolderEditor\FolderEditor\obj\Debug\FolderEditor.pdb
